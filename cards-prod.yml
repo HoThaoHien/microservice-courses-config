@@ -1,0 +1,9 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to configuration for cards! - Prod environment"
+  contactDetails:
+    name: "Hien"
+    email: "hothaohien@gmail.com"
+  onCallSupport:
+    - 0001110001

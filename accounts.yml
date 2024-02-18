@@ -1,0 +1,9 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to configuration! - Local environment"
+  contactDetails:
+    name: "Hien"
+    email: "hothaohien@gmail.com"
+  onCallSupport:
+  - 0001110001

@@ -1,0 +1,9 @@
+build:
+  version: "1.0"
+loans:
+  message: "Welcome to configuration for loans! - Prod environment"
+  contactDetails:
+    name: "Hien"
+    email: "hothaohien@gmail.com"
+  onCallSupport:
+    - 0001110001

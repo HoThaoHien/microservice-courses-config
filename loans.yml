@@ -1,0 +1,9 @@
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to configuration! Loan application - Local environment"
+  contactDetails:
+    name: "Hien"
+    email: "hothaohien@gmail.com"
+  onCallSupport:
+    - 0001110001

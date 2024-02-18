@@ -1,0 +1,9 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to configuration for accounts! - Prod environment"
+  contactDetails:
+    name: "Hien"
+    email: "hothaohien@gmail.com"
+  onCallSupport:
+    - 0001110001
