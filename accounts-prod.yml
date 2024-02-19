@@ -4,6 +4,6 @@ accounts:
   message: "Welcome to configuration for accounts! - Prod environment"
   contactDetails:
     name: "Hien"
-    email: "hothaohien@gmail.com"
+    email: "{cipher}cfe4b37afde28e01c8695b1949bbb0522b06b079e00947c2c9c84c4f45a7611ccacc0dca463aa5b37368c73a527dc2ab"
   onCallSupport:
     - 0001110001
