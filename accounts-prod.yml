@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to configuration for accounts! - Pro environment"
+  message: "Welcome to configuration for accounts! - Production again environment"
   contactDetails:
     name: "Hien"
     email: "{cipher}45a6c58dcfbe617a4ebfa353d3f0457dce4f3dae0946718e1df029e4177e6ae4"
